@@ -3,7 +3,7 @@
 
 int main()
 {
-  
+  unsigned char i;
   while(1)
   {
     ;
